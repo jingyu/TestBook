@@ -2,14 +2,18 @@
 
 Hello
 
-{% hint style="danger" %}
+{% hint style="success" %}
 info hint
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="info" %}
 warning
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 info
+{% endhint %}
+
+{% hint style="danger" %}
+
 {% endhint %}
