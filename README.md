@@ -1,29 +1,15 @@
----
-description: >-
-  Run GitBook in distraction-free window, manage multiple GitBook accounts
-  easily and much much more with the unofficial GitBook desktop app for macOS,
-  Windows and Linux on WebCatalog.
----
+# Page 1
 
-# Introduction
+Hello
 
-Focus
+{% hint style="danger" %}
+info hint
+{% endhint %}
 
-Launch GitBook quickly from dock or taskbar and run GitBook in self-contained, distraction-free windows.
+{% hint style="danger" %}
+warning
+{% endhint %}
 
-Multiple Accounts
-
-Manage multiple GitBook accounts at the same time and switch between them with just a click or using keyboard shortcut.
-
-App Lock
-
-Protect your data from sneaky eyes with passwords or Touch ID.
-
-Enhanced Notifications
-
-Control notifications by schedule and show unread badge on dock (or taskbar) icon.
-
-
-
-Hello world!!!
-
+{% hint style="info" %}
+info
+{% endhint %}
